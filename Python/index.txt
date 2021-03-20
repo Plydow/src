@@ -6,3 +6,4 @@ Search it and see after in more information
 
 numba: python optimisation
 json: python stdlib gestion json format
+matplotlib: python show graph
